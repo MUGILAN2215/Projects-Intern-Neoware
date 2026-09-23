@@ -1,0 +1,6 @@
+google-genai
+pymupdf
+qdrant-client
+numpy
+streamlit
+python-dotenv
